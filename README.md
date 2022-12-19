@@ -1,17 +1,17 @@
 # Olá, eu sou Luis Migliaris ✌️
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aburranja)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luismigliaris1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luishencm1@gmail.com)
 [![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=luishencm2@hotmail.com)](mailto:luishencm2@hotmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/thay_henriquee)](https://www.instagram.com/luis.migliaris/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/luis.migliaris)](https://www.instagram.com/luis.migliaris/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luismigliaris/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517982225640)
 
 
  <div>
-  <a href="https://github.com/aburranja">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aburranja&show_icons=true&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aburranja&layout=compact&langs_count=7&theme=darcula"/>  
+  <a href="https://github.com/luismigliaris1">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luismigliaris1&show_icons=true&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismigliaris1&layout=compact&langs_count=7&theme=darcula"/>  
    <h1 align="center"> Skills </h2>
    </div>
 
